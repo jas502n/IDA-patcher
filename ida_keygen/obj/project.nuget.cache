@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7C8781R3C0Kff/tjoCxxOz2RPzoVdjCgjo4GE3r3bCQNe0xWhpTuxbYP72pAxGIHHwCUfhIRuTor7liTbLFnfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Desktop\\HackingTools\\ida_keygen\\ida_keygen\\ida_keygen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.1\\mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\7.0.0-preview.2.22102.2\\microsoft.dotnet.ilcompiler.7.0.0-preview.2.22102.2.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
